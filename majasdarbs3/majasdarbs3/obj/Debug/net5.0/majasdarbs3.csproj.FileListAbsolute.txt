@@ -1,0 +1,16 @@
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.csproj.AssemblyReference.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.AssemblyInfoInputs.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.AssemblyInfo.cs
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.csproj.CoreCompileInputs.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.exe
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.deps.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.runtimeconfig.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.runtimeconfig.dev.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\ref\majasdarbs3.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\bin\Debug\net5.0\majasdarbs3.pdb
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\ref\majasdarbs3.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.pdb
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\MD\MD3\App\majasdarbs3\majasdarbs3\obj\Debug\net5.0\majasdarbs3.genruntimeconfig.cache
